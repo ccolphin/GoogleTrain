@@ -1,2 +1,2 @@
 # GoogleTrain
-google training code
+Google training code
